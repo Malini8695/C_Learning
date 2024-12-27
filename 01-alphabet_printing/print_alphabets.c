@@ -1,4 +1,4 @@
-/* C program to print the alphabets from A to Z */
+/* C program to print the alphabets  */
 
 #include<stdio.h>
 int main(){
