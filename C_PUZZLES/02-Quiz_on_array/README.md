@@ -90,6 +90,6 @@ no output will be displayed
 
 ## Useful links :
 - [sizeof operator in c ](https://www.geeksforgeeks.org/sizeof-operator-c/)
-- [unsigned int vs signed int ] (https://www.geeksforgeeks.org/difference-between-unsigned-int-and-signed-int-in-c/)
+- [unsigned int vs signed int ](https://www.geeksforgeeks.org/difference-between-unsigned-int-and-signed-int-in-c/)
 - [type conversion in c](https://www.geeksforgeeks.org/type-conversion-c/)
-- [unsigned int to signed int conversion ] (https://stackoverflow.com/questions/8317295/convert-unsigned-int-to-signed-int-c)
+- [unsigned int to signed int conversion ](https://stackoverflow.com/questions/8317295/convert-unsigned-int-to-signed-int-c)
