@@ -18,7 +18,9 @@ int main()
 /* What could be the reason? */
 
 /*
-Soln Ref : https://support.tetcos.com/support/solutions/articles/14000051594-how-to-use-fprintf-with-stderr-stdout-and-printf-statements-in-netsim- 
+Soln Ref :
+https://support.tetcos.com/support/solutions/articles/14000051594-how-to-use-fprintf-with-stderr-stdout-and-printf-statements-in-netsim- 
+https://www.geeksforgeeks.org/use-fflushstdin-c/
 */
 
 /* LOGIC BEHIND THIS */
